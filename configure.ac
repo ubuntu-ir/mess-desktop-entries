@@ -47,15 +47,6 @@ AC_SUBST(GETTEXT_PACKAGE)
 
 AC_CONFIG_FILES([
         Makefile
-        mess-dc.desktop.in
-        mess-gameboy.desktop.in
-        mess-gba.desktop.in
-        mess-genesis.desktop.in
-        mess-msx.desktop.in
-        mess-n64.desktop.in
-        mess-nes.desktop.in
-        mess-sms.desktop.in
-        mess-snes.desktop.in
         po/Makefile.in
 ])
 AC_OUTPUT
