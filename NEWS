@@ -1,0 +1,17 @@
+MESS Desktop Entries 0.1
+========================
+
+        Released February 23, 2011
+
+        What's New
+        ----------
+        * Initial release supports the following ROM file types:
+            MSX                            (application/x-msx-rom)
+            Nintendo 64                    (application/x-n64-rom)
+            Nintendo Entertainment System  (application/x-nes-rom)
+            Nintendo Game Boy              (application/x-gameboy-rom)
+            Nintendo Game Boy Advance      (application/x-gba-rom)
+            Nintendo Super NES             (application/x-snes-rom)
+            Sega Dreamcast                 (application/x-dc-rom)
+            Sega Genesis                   (application/x-genesis-rom)
+            Sega Master System             (application/x-sms-rom)
