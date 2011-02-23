@@ -1,0 +1,8 @@
+
+MESS Desktop Entries
+====================
+
+The purpose of this package is to associate MIME types for game console ROM
+files (e.g. application/x-nes-rom) to the appropriate MESS command so that
+ROM files can be loaded just by double-clicking the file in a file manager.
+

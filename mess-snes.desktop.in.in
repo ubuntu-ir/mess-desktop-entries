@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Super NES ROM Player
+_Comment=Play Super Nintendo Entertainment System games
+Type=Application
+Exec=@MESS@ snes -cartridge %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-snes-rom;

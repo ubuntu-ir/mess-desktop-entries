@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Nintendo64 ROM Player
+_Comment=Play Nintendo 64 games
+Type=Application
+Exec=@MESS@ n64 -cartridge %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-n64-rom;

@@ -1,0 +1,9 @@
+# List of source files which contain translatable strings.
+
+[encoding: UTF-8]
+mess-dc.desktop.in
+mess-gameboy.desktop.in
+mess-gba.desktop.in
+mess-n64.desktop.in
+mess-nes.desktop.in
+mess-snes.desktop.in

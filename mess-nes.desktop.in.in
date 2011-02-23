@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=NES ROM Player
+_Comment=Play Nintendo Entertainment System games
+Type=Application
+Exec=@MESS@ nes -cartridge %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-nes-rom;

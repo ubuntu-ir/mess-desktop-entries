@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Dreamcast ROM Player
+_Comment=Play Sega Dreamcast games
+Type=Application
+Exec=@MESS@ dc -cdrom %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-dc-rom;

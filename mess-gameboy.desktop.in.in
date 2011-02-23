@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Game Boy ROM Player
+_Comment=Play Nintendo Game Boy games
+Type=Application
+Exec=@MESS@ gameboy -cartridge %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-gameboy-rom;
