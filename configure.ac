@@ -19,6 +19,10 @@ m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
 AC_PROG_INSTALL
 IT_PROG_INTLTOOL
 
+# MIME Database
+SHARED_MIME_INFO_MODULES="shared-mime-info >= 0.19"
+PKG_CHECK_MODULES(SHARED_MIME_INFO, $SHARED_MIME_INFO_MODULES)
+
 # MESS Program
 AC_ARG_VAR([MESS], [MESS command])
 AC_PATH_PROGS([MESS], [mess],, [$PATH:/usr/local/games:/usr/games])
