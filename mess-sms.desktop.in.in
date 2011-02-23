@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Sega Master System/Game Gear ROM Player
+_Comment=Play Sega Master System and Game Gear games
+Type=Application
+Exec=@MESS@ sms -cartridge %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-sms-rom;

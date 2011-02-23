@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Genesis ROM Player
+_Comment=Play Sega Genesis games
+Type=Application
+Exec=@MESS@ genesis -cartridge %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-genesis-rom;

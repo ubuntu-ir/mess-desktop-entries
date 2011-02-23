@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=MSX ROM Player
+_Comment=Play MSX games
+Type=Application
+Exec=@MESS@ msx -cassette %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-msx-rom;
