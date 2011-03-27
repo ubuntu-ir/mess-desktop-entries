@@ -1,0 +1,90 @@
+# Czech translation for mess-desktop-entries.
+# Copyright (C) 2011 mess-desktop-entries's COPYRIGHT HOLDER
+# This file is distributed under the same license as the mess-desktop-entries package.
+# Marek Černocký <marek@manet.cz>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mess-desktop-entries master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-26 20:00+0000\n"
+"PO-Revision-Date: 2011-03-27 09:42+0200\n"
+"Last-Translator: Marek Černocký <marek@manet.cz>\n"
+"Language-Team: Czech <gnome-cs-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ../mess-dc.desktop.in.h:1
+msgid "Dreamcast ROM Player"
+msgstr "Simulátor ROM z Dreamcast"
+
+#: ../mess-dc.desktop.in.h:2
+msgid "Play Sega Dreamcast games"
+msgstr "Hrát hry ze Sega Dreamcast"
+
+#: ../mess-gameboy.desktop.in.h:1
+msgid "Game Boy ROM Player"
+msgstr "Simulátor ROM z Game Boy"
+
+#: ../mess-gameboy.desktop.in.h:2
+msgid "Play Nintendo Game Boy games"
+msgstr "Hrát hry z Nintendo Game Boy"
+
+#: ../mess-gba.desktop.in.h:1
+msgid "Game Boy Advance ROM Player"
+msgstr "Simulátor ROM z Game Boy Advanced"
+
+#: ../mess-gba.desktop.in.h:2
+msgid "Play Nintendo Game Boy Advance games"
+msgstr "Hrát hry z Nintendo Game Boy Advance"
+
+#: ../mess-genesis.desktop.in.h:1
+msgid "Genesis ROM Player"
+msgstr "Simulátor ROM z Genesis"
+
+#: ../mess-genesis.desktop.in.h:2
+msgid "Play Sega Genesis games"
+msgstr "Hrát hry ze Sega Genesis"
+
+#: ../mess-msx.desktop.in.h:1
+msgid "MSX ROM Player"
+msgstr "Simulátor ROM z MSX"
+
+#: ../mess-msx.desktop.in.h:2
+msgid "Play MSX games"
+msgstr "Hrát hry z MSX"
+
+#: ../mess-n64.desktop.in.h:1
+msgid "Nintendo64 ROM Player"
+msgstr "Simulátor ROM z Nintendo64"
+
+#: ../mess-n64.desktop.in.h:2
+msgid "Play Nintendo 64 games"
+msgstr "Hrát hry z Nintendo 64"
+
+#: ../mess-nes.desktop.in.h:1
+msgid "NES ROM Player"
+msgstr "Simulátor ROM z NES"
+
+#: ../mess-nes.desktop.in.h:2
+msgid "Play Nintendo Entertainment System games"
+msgstr "Hrát hry z Nintendo Entertainment System"
+
+#: ../mess-sms.desktop.in.h:1
+msgid "Play Sega Master System and Game Gear games"
+msgstr "Hrát hry ze Sega Master System a z Game Gear"
+
+#: ../mess-sms.desktop.in.h:2
+msgid "Sega Master System/Game Gear ROM Player"
+msgstr "Simulátor ROM ze Sega Master System/Game Gear"
+
+#: ../mess-snes.desktop.in.h:1
+msgid "Play Super Nintendo Entertainment System games"
+msgstr "Hrát hry ze Super Nintendo Entertainment System"
+
+#: ../mess-snes.desktop.in.h:2
+msgid "Super NES ROM Player"
+msgstr "Simulátor ROM ze Super NES"
