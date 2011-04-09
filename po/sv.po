@@ -1,0 +1,90 @@
+# Swedish translation for mess-desktop-entries.
+# Copyright (C) 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mess package.
+# Daniel Nylander <po@danielnylander.se>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mess-desktop-entries\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-09 10:46+0200\n"
+"PO-Revision-Date: 2011-04-09 10:48+0100\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../mess-dc.desktop.in.h:1
+msgid "Dreamcast ROM Player"
+msgstr "Dreamcast ROM-spelare"
+
+#: ../mess-dc.desktop.in.h:2
+msgid "Play Sega Dreamcast games"
+msgstr "Spela Sega Dreamcast-spel"
+
+#: ../mess-gameboy.desktop.in.h:1
+msgid "Game Boy ROM Player"
+msgstr "Game Boy ROM-spelare"
+
+#: ../mess-gameboy.desktop.in.h:2
+msgid "Play Nintendo Game Boy games"
+msgstr "Spela Nintendo Game Boy-spel"
+
+#: ../mess-gba.desktop.in.h:1
+msgid "Game Boy Advance ROM Player"
+msgstr "Game Boy Advance ROM-spelare"
+
+#: ../mess-gba.desktop.in.h:2
+msgid "Play Nintendo Game Boy Advance games"
+msgstr "Spela Nintendo Game Boy Advance-spel"
+
+#: ../mess-genesis.desktop.in.h:1
+msgid "Genesis ROM Player"
+msgstr "Genesis ROM-spelare"
+
+#: ../mess-genesis.desktop.in.h:2
+msgid "Play Sega Genesis games"
+msgstr "Spela Sega Genesis-spel"
+
+#: ../mess-msx.desktop.in.h:1
+msgid "MSX ROM Player"
+msgstr "MSX ROM-spelare"
+
+#: ../mess-msx.desktop.in.h:2
+msgid "Play MSX games"
+msgstr "Spela MSX-spel"
+
+#: ../mess-n64.desktop.in.h:1
+msgid "Nintendo64 ROM Player"
+msgstr "Nintendo64 ROM-spelare"
+
+#: ../mess-n64.desktop.in.h:2
+msgid "Play Nintendo 64 games"
+msgstr "Spela Nintendo 64-spel"
+
+#: ../mess-nes.desktop.in.h:1
+msgid "NES ROM Player"
+msgstr "NES ROM-spelare"
+
+#: ../mess-nes.desktop.in.h:2
+msgid "Play Nintendo Entertainment System games"
+msgstr "Spela Nintendo Entertainment System-spel"
+
+#: ../mess-sms.desktop.in.h:1
+msgid "Play Sega Master System and Game Gear games"
+msgstr "Spela Sega Master System och Game Gear-spel"
+
+#: ../mess-sms.desktop.in.h:2
+msgid "Sega Master System/Game Gear ROM Player"
+msgstr "Sega Master System/Game Gear ROM-spelare"
+
+#: ../mess-snes.desktop.in.h:1
+msgid "Play Super Nintendo Entertainment System games"
+msgstr "Spela Super Nintendo Entertainment System-spel"
+
+#: ../mess-snes.desktop.in.h:2
+msgid "Super NES ROM Player"
+msgstr "Super NES ROM-spelare"
+
