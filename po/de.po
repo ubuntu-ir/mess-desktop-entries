@@ -1,0 +1,89 @@
+# German translation for mess-desktop-entries.
+# Copyright (C) 2011 mess-desktop-entries's COPYRIGHT HOLDER
+# This file is distributed under the same license as the mess-desktop-entries package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mess-desktop-entries master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-27 07:45+0000\n"
+"PO-Revision-Date: 2011-04-08 08:51+0100\n"
+"Last-Translator: Christian Kirbach <Christian.Kirbach@googlemail.com>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../mess-dc.desktop.in.h:1
+msgid "Dreamcast ROM Player"
+msgstr "Abspieler für Dreamcast ROM"
+
+#: ../mess-dc.desktop.in.h:2
+msgid "Play Sega Dreamcast games"
+msgstr "Sega Dreamcast-Spiele spielen"
+
+#: ../mess-gameboy.desktop.in.h:1
+msgid "Game Boy ROM Player"
+msgstr "Abspieler für GameBoy ROM"
+
+#: ../mess-gameboy.desktop.in.h:2
+msgid "Play Nintendo Game Boy games"
+msgstr "Nintendo GameBoy-Spiele spielen"
+
+#: ../mess-gba.desktop.in.h:1
+msgid "Game Boy Advance ROM Player"
+msgstr "Abspieler für GameBoy Advance ROM"
+
+#: ../mess-gba.desktop.in.h:2
+msgid "Play Nintendo Game Boy Advance games"
+msgstr "Nintendo GameBoy Advance-Spiele spielen"
+
+#: ../mess-genesis.desktop.in.h:1
+msgid "Genesis ROM Player"
+msgstr "Abspieler für Genesis ROM"
+
+#: ../mess-genesis.desktop.in.h:2
+msgid "Play Sega Genesis games"
+msgstr "Sega Genesis-Spiele spielen"
+
+#: ../mess-msx.desktop.in.h:1
+msgid "MSX ROM Player"
+msgstr "Abspieler für MSX ROM"
+
+#: ../mess-msx.desktop.in.h:2
+msgid "Play MSX games"
+msgstr "MSX-Spiele spielen"
+
+#: ../mess-n64.desktop.in.h:1
+msgid "Nintendo64 ROM Player"
+msgstr "Abspieler für Nintendo64 ROM"
+
+#: ../mess-n64.desktop.in.h:2
+msgid "Play Nintendo 64 games"
+msgstr "Nintendo64-Spiele spielen"
+
+#: ../mess-nes.desktop.in.h:1
+msgid "NES ROM Player"
+msgstr "Abspieler für NES ROM"
+
+#: ../mess-nes.desktop.in.h:2
+msgid "Play Nintendo Entertainment System games"
+msgstr "Nintendo Entertainment System-Spiele spielen"
+
+#: ../mess-sms.desktop.in.h:1
+msgid "Play Sega Master System and Game Gear games"
+msgstr "Sega Master System und Game Gear-Spiele spielen"
+
+#: ../mess-sms.desktop.in.h:2
+msgid "Sega Master System/Game Gear ROM Player"
+msgstr "Abspieler für Sega Master System / Game Gear-Spiele"
+
+#: ../mess-snes.desktop.in.h:1
+msgid "Play Super Nintendo Entertainment System games"
+msgstr " Super Nintendo Entertainment System-Spiele spielen"
+
+#: ../mess-snes.desktop.in.h:2
+msgid "Super NES ROM Player"
+msgstr "Abspieler für Super NES ROM"
