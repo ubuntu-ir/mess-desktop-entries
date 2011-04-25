@@ -1,0 +1,91 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-09 10:44+0000\n"
+"PO-Revision-Date: 2011-04-20 11:48+0300\n"
+"Last-Translator: Rūdofls Mazurs <rudolfs.mazurs@gmail.com>\n"
+"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+#: ../mess-dc.desktop.in.h:1
+msgid "Dreamcast ROM Player"
+msgstr "Dreamcast ROM spēlētājs"
+
+#: ../mess-dc.desktop.in.h:2
+msgid "Play Sega Dreamcast games"
+msgstr "Spēlē Sega Dreamcast spēles"
+
+#: ../mess-gameboy.desktop.in.h:1
+msgid "Game Boy ROM Player"
+msgstr "Game Boy ROM spēlētājs"
+
+#: ../mess-gameboy.desktop.in.h:2
+msgid "Play Nintendo Game Boy games"
+msgstr "Spēlē Nintendo Game Boy spēles"
+
+#: ../mess-gba.desktop.in.h:1
+msgid "Game Boy Advance ROM Player"
+msgstr "Game Boy Advance ROM spēlētājs"
+
+#: ../mess-gba.desktop.in.h:2
+msgid "Play Nintendo Game Boy Advance games"
+msgstr "Spēlē Nintendo Game Boy Advance spēles"
+
+#: ../mess-genesis.desktop.in.h:1
+msgid "Genesis ROM Player"
+msgstr "Genesis ROM spēlētājs"
+
+#: ../mess-genesis.desktop.in.h:2
+msgid "Play Sega Genesis games"
+msgstr "Spēlē Sega Genesis spēles"
+
+#: ../mess-msx.desktop.in.h:1
+msgid "MSX ROM Player"
+msgstr "MSX ROM spēlētājs"
+
+#: ../mess-msx.desktop.in.h:2
+msgid "Play MSX games"
+msgstr "Spēlē MSX spēles"
+
+#: ../mess-n64.desktop.in.h:1
+msgid "Nintendo64 ROM Player"
+msgstr "Nintendo64 ROM spēlētājs"
+
+#: ../mess-n64.desktop.in.h:2
+msgid "Play Nintendo 64 games"
+msgstr "Spēlē Nintendo 64 spēles"
+
+#: ../mess-nes.desktop.in.h:1
+msgid "NES ROM Player"
+msgstr "NES ROM spēlētājs"
+
+#: ../mess-nes.desktop.in.h:2
+msgid "Play Nintendo Entertainment System games"
+msgstr "Spēlē Nintendo Entertainment System spēles"
+
+#: ../mess-sms.desktop.in.h:1
+msgid "Play Sega Master System and Game Gear games"
+msgstr "Spēlē Sega Master System un Game Gear spēles"
+
+#: ../mess-sms.desktop.in.h:2
+msgid "Sega Master System/Game Gear ROM Player"
+msgstr "Sega Master System/Game Gear ROM spēlētājs"
+
+#: ../mess-snes.desktop.in.h:1
+msgid "Play Super Nintendo Entertainment System games"
+msgstr "Spēlē Super Nintendo Entertainment System spēles"
+
+#: ../mess-snes.desktop.in.h:2
+msgid "Super NES ROM Player"
+msgstr "Super NES ROM spēlētājs"
+
