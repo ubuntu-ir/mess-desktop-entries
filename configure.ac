@@ -2,7 +2,7 @@
 
 AC_PREREQ([2.54])
 
-m4_define([package_version], 0.1)
+m4_define([package_version], 0.2)
 
 AC_INIT([MESS Desktop Entries], [package_version],
         [mbarnes@redhat.com], mess-desktop-entries)
