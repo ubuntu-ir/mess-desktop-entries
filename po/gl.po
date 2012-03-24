@@ -1,0 +1,91 @@
+# Galician translation for mess-desktop-entries.
+# Copyright (C) 2012 mess-desktop-entries's COPYRIGHT HOLDER
+# This file is distributed under the same license as the mess-desktop-entries package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Fran Dieguez <frandieguez@gnome.org>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mess-desktop-entries master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-24 01:03+0100\n"
+"PO-Revision-Date: 2012-03-24 01:03+0100\n"
+"Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
+"Language-Team: Galician <gnome-l10n-gl@gnome.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: ../mess-dc.desktop.in.h:1
+msgid "Dreamcast ROM Player"
+msgstr "Reprodutor de ROM para Dreamcast"
+
+#: ../mess-dc.desktop.in.h:2
+msgid "Play Sega Dreamcast games"
+msgstr "Xogar a xogos de Sega Dreamcast"
+
+#: ../mess-gameboy.desktop.in.h:1
+msgid "Game Boy ROM Player"
+msgstr "Reprodutor de ROM para Game Boy"
+
+#: ../mess-gameboy.desktop.in.h:2
+msgid "Play Nintendo Game Boy games"
+msgstr "Xogar a xogos de Game Boy de Nintendo"
+
+#: ../mess-gba.desktop.in.h:1
+msgid "Game Boy Advance ROM Player"
+msgstr "Reprodutor de ROM para Game Boy Advance"
+
+#: ../mess-gba.desktop.in.h:2
+msgid "Play Nintendo Game Boy Advance games"
+msgstr "Xogar a xogos de Game Boy Advance de Nintendo"
+
+#: ../mess-genesis.desktop.in.h:1
+msgid "Genesis ROM Player"
+msgstr "Reprodutor de ROM para Genesis"
+
+#: ../mess-genesis.desktop.in.h:2
+msgid "Play Sega Genesis games"
+msgstr "Xogar a xogos de Sega Genesis"
+
+#: ../mess-msx.desktop.in.h:1
+msgid "MSX ROM Player"
+msgstr "Reprodutor de ROM par MSX"
+
+#: ../mess-msx.desktop.in.h:2
+msgid "Play MSX games"
+msgstr "Xogar a xogos de MSX"
+
+#: ../mess-n64.desktop.in.h:1
+msgid "Nintendo64 ROM Player"
+msgstr "Reprodutor de ROM para Nintendo 64"
+
+#: ../mess-n64.desktop.in.h:2
+msgid "Play Nintendo 64 games"
+msgstr "Xogar a xogos de Nintendo 64"
+
+#: ../mess-nes.desktop.in.h:1
+msgid "NES ROM Player"
+msgstr "Reprodutor de ROM para NES"
+
+#: ../mess-nes.desktop.in.h:2
+msgid "Play Nintendo Entertainment System games"
+msgstr "Xogar a xogos de Nintendo Entertainment"
+
+#: ../mess-sms.desktop.in.h:1
+msgid "Sega Master System/Game Gear ROM Player"
+msgstr "Reprodutor de ROM para Sega Master System/Game Gear"
+
+#: ../mess-sms.desktop.in.h:2
+msgid "Play Sega Master System and Game Gear games"
+msgstr "Xogar a xogos de Master System e Game Gear de Sega"
+
+#: ../mess-snes.desktop.in.h:1
+msgid "Super NES ROM Player"
+msgstr "Reprodutor de ROM de Super NES"
+
+#: ../mess-snes.desktop.in.h:2
+msgid "Play Super Nintendo Entertainment System games"
+msgstr "Xogar a xogos de Super Nintendo Entertainment"
