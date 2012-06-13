@@ -1,0 +1,92 @@
+# Greek translation for mess-desktop-entries.
+# Copyright (C) 2012 mess-desktop-entries's COPYRIGHT HOLDER
+# This file is distributed under the same license as the mess-desktop-entries package.
+# Konstantinos Chortis <cograss@yahoo.com>, 2012.
+# Κωσνταντίνος Χόρτης <cograss@yahoo.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: mess-desktop-entries master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-24 00:04+0000\n"
+"PO-Revision-Date: 2012-06-14 00:25+0200\n"
+"Last-Translator: Tom Tryfonidis <tomtryf@gmail.com>\n"
+"Language-Team: Greek Translation Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0\n"
+
+#: ../mess-dc.desktop.in.h:1
+msgid "Dreamcast ROM Player"
+msgstr "Αναπαραγωγέας Dreamcast ROM"
+
+#: ../mess-dc.desktop.in.h:2
+msgid "Play Sega Dreamcast games"
+msgstr "Παίξτε παιχνίδια του Sega Dreamcast"
+
+#: ../mess-gameboy.desktop.in.h:1
+msgid "Game Boy ROM Player"
+msgstr "Αναπαραγωγέας Game boy ROM"
+
+#: ../mess-gameboy.desktop.in.h:2
+msgid "Play Nintendo Game Boy games"
+msgstr "Παίξτε παιχνίδια του Nintendo Game Boy"
+
+#: ../mess-gba.desktop.in.h:1
+msgid "Game Boy Advance ROM Player"
+msgstr "Αναπαραγωγέας Game Βoy Advance ROM"
+
+#: ../mess-gba.desktop.in.h:2
+msgid "Play Nintendo Game Boy Advance games"
+msgstr "Παίξτε παιχνίδια του Nintendo Game Boy Advance"
+
+#: ../mess-genesis.desktop.in.h:1
+msgid "Genesis ROM Player"
+msgstr "Αναπαραγωγέας Genesiw ROM"
+
+#: ../mess-genesis.desktop.in.h:2
+msgid "Play Sega Genesis games"
+msgstr "Παίξτε παιχνίδια του Sega Genesis"
+
+#: ../mess-msx.desktop.in.h:1
+msgid "MSX ROM Player"
+msgstr "Αναπαραγωγέας MSX ROM"
+
+#: ../mess-msx.desktop.in.h:2
+msgid "Play MSX games"
+msgstr "Παίξτε παιχνίδια του MSX"
+
+#: ../mess-n64.desktop.in.h:1
+msgid "Nintendo64 ROM Player"
+msgstr "Αναπαραγωγέας Nintendo64 ROM"
+
+#: ../mess-n64.desktop.in.h:2
+msgid "Play Nintendo 64 games"
+msgstr "Παίξτε παιχνίδια του Nintendo 64"
+
+#: ../mess-nes.desktop.in.h:1
+msgid "NES ROM Player"
+msgstr "Αναπαραγωγέας NES ROM"
+
+#: ../mess-nes.desktop.in.h:2
+msgid "Play Nintendo Entertainment System games"
+msgstr "Παίξτε παιχνίδια του Nintendo Entertainment System"
+
+#: ../mess-sms.desktop.in.h:1
+msgid "Sega Master System/Game Gear ROM Player"
+msgstr "Αναπαραγωγέας Sega Master System/Game Gear ROM"
+
+#: ../mess-sms.desktop.in.h:2
+msgid "Play Sega Master System and Game Gear games"
+msgstr "Παίξτε παιχνίδια του Sega Master System και του Game Gear"
+
+#: ../mess-snes.desktop.in.h:1
+msgid "Super NES ROM Player"
+msgstr "Αναπαραγωγέας Super NES ROM"
+
+#: ../mess-snes.desktop.in.h:2
+msgid "Play Super Nintendo Entertainment System games"
+msgstr "Παίξτε παιχνίδια του Super Nintendo Entertainment System"
+
