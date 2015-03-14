@@ -1,0 +1,91 @@
+# Bosnian translation for bosnianuniversetranslation
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the bosnianuniversetranslation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bosnianuniversetranslation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-26 23:10+0000\n"
+"PO-Revision-Date: 2013-10-15 23:23+0000\n"
+"Last-Translator: Samir Ribić <Unknown>\n"
+"Language-Team: Bosnian <bs@li.org>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-23 07:11+0000\n"
+"X-Generator: Launchpad (build 17203)\n"
+
+#: ../mess-dc.desktop.in.h:1
+msgid "Dreamcast ROM Player"
+msgstr "Dreamcast ROM plejer"
+
+#: ../mess-dc.desktop.in.h:2
+msgid "Play Sega Dreamcast games"
+msgstr "Igrajte Siga Dreamcast igrice"
+
+#: ../mess-gameboy.desktop.in.h:1
+msgid "Game Boy ROM Player"
+msgstr "Game Boy ROM plejer"
+
+#: ../mess-gameboy.desktop.in.h:2
+msgid "Play Nintendo Game Boy games"
+msgstr "Igrajte Nintendo Game Boy igre"
+
+#: ../mess-gba.desktop.in.h:1
+msgid "Game Boy Advance ROM Player"
+msgstr "Game Boy Advance ROM plejer"
+
+#: ../mess-gba.desktop.in.h:2
+msgid "Play Nintendo Game Boy Advance games"
+msgstr "Igrajte igre za Nintendo Game Boy Advance"
+
+#: ../mess-genesis.desktop.in.h:1
+msgid "Genesis ROM Player"
+msgstr "Genesis ROM Player"
+
+#: ../mess-genesis.desktop.in.h:2
+msgid "Play Sega Genesis games"
+msgstr "Igrajte Siga Genesis igre"
+
+#: ../mess-msx.desktop.in.h:1
+msgid "MSX ROM Player"
+msgstr "MSX ROM Player"
+
+#: ../mess-msx.desktop.in.h:2
+msgid "Play MSX games"
+msgstr "Igrajte MSX igrice"
+
+#: ../mess-n64.desktop.in.h:1
+msgid "Nintendo64 ROM Player"
+msgstr "Nintendo64 ROM plejer"
+
+#: ../mess-n64.desktop.in.h:2
+msgid "Play Nintendo 64 games"
+msgstr "Igrajte Nintendo 64 igrice"
+
+#: ../mess-nes.desktop.in.h:1
+msgid "NES ROM Player"
+msgstr "NES ROM plejer"
+
+#: ../mess-nes.desktop.in.h:2
+msgid "Play Nintendo Entertainment System games"
+msgstr "Igrajte Nintendo Entertainment System igre"
+
+#: ../mess-sms.desktop.in.h:1
+msgid "Sega Master System/Game Gear ROM Player"
+msgstr "Siga Master Sistem/ROM plejer uređaj za igrice"
+
+#: ../mess-sms.desktop.in.h:2
+msgid "Play Sega Master System and Game Gear games"
+msgstr "Igrajte Siga Master System i Game Gear igrice"
+
+#: ../mess-snes.desktop.in.h:1
+msgid "Super NES ROM Player"
+msgstr "Super NES ROM plejer"
+
+#: ../mess-snes.desktop.in.h:2
+msgid "Play Super Nintendo Entertainment System games"
+msgstr "Igrajte Super Nintendo igrice za sistemsko okruženje"
