@@ -25,7 +25,7 @@ PKG_CHECK_MODULES(SHARED_MIME_INFO, $SHARED_MIME_INFO_MODULES)
 
 # MESS Program
 AC_ARG_VAR([MESS], [MESS command])
-AC_PATH_PROGS([MESS], [mess],, [$PATH:/usr/local/games:/usr/games])
+AC_PATH_PROGS([MESS], [mame],, [$PATH:/usr/local/games:/usr/games])
 if test "x$MESS" = "x"; then
         AC_MSG_ERROR([
 
